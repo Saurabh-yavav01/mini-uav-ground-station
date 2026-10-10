@@ -1,0 +1,8 @@
+folium==0.20.0
+joblib==1.6.0
+pandas==3.0.6
+plotly==7.1.0
+pymavlink==2.4.50
+scikit-learn==1.9.1
+streamlit==1.65.0
+streamlit-folium==0.27.4
